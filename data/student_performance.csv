@@ -1,0 +1,11 @@
+gender,race,math_score,reading_score,writing_score,test_prep,lunch,parent_education
+female,group B,72,72,74,none,standard,bachelor
+female,group C,69,90,88,completed,standard,some college
+female,group B,90,95,93,none,free/reduced,associate
+male,group A,47,57,44,none,standard,high school
+male,group C,76,78,75,completed,standard,bachelor
+female,group B,71,83,78,none,free/reduced,associate
+female,group B,88,95,92,completed,standard,some college
+male,group B,40,43,39,none,free/reduced,some high school
+male,group D,64,64,67,completed,standard,associate
+female,group E,38,60,50,none,free/reduced,high school
